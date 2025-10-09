@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0049-group-anagrams) |
+| [0412-fizz-buzz](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0412-fizz-buzz) |
 | [2427-first-letter-to-appear-twice](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -45,5 +46,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/2058-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
