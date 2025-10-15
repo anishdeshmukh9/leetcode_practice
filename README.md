@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0169-majority-element) |
 | [1217-relative-sort-array](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -28,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0169-majority-element) |
 | [2427-first-letter-to-appear-twice](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/2427-first-letter-to-appear-twice) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0169-majority-element) |
 | [0958-sort-array-by-parity-ii](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0958-sort-array-by-parity-ii) |
 | [1217-relative-sort-array](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1319-unique-number-of-occurrences) |
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0169-majority-element) |
 | [0958-sort-array-by-parity-ii](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0958-sort-array-by-parity-ii) |
 | [1217-relative-sort-array](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1217-relative-sort-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -76,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1217-relative-sort-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
