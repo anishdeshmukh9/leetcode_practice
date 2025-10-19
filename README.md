@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0412-fizz-buzz](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0412-fizz-buzz) |
+| [0841-shortest-distance-to-a-character](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0841-shortest-distance-to-a-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2427-first-letter-to-appear-twice](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0169-majority-element) |
+| [0841-shortest-distance-to-a-character](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0958-sort-array-by-parity-ii](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0958-sort-array-by-parity-ii) |
 | [1217-relative-sort-array](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1319-unique-number-of-occurrences) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0841-shortest-distance-to-a-character](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0958-sort-array-by-parity-ii](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0958-sort-array-by-parity-ii) |
 ## Simulation
 |  |
