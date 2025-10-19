@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2427-first-letter-to-appear-twice](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/2427-first-letter-to-appear-twice) |
+| [2476-check-distances-between-same-letters](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/2476-check-distances-between-same-letters) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0841-shortest-distance-to-a-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2427-first-letter-to-appear-twice](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/2427-first-letter-to-appear-twice) |
+| [2476-check-distances-between-same-letters](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/2476-check-distances-between-same-letters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2058-concatenation-of-array](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/2058-concatenation-of-array) |
+| [2476-check-distances-between-same-letters](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/2476-check-distances-between-same-letters) |
 ## Sliding Window
 |  |
 | ------- |
