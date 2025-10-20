@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0169-majority-element) |
+| [0682-baseball-game](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0682-baseball-game) |
 | [0841-shortest-distance-to-a-character](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0958-sort-array-by-parity-ii](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0958-sort-array-by-parity-ii) |
 | [1217-relative-sort-array](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1217-relative-sort-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
