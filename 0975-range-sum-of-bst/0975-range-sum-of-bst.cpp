@@ -18,11 +18,11 @@ public:
 
         if(root == NULL) return; 
 
-        traverse(root->left , l , h); 
+         if(root->val > h || root->val >= l && root->val <= h) traverse(root->left , l , h); 
         if(root->val >= l && root->val <= h){
             sum += root->val;
         }
-        traverse(root->right , l , h);
+        if(root->val < l || root->val >= l && root->val <= h) traverse(root->right , l , h);
 
     }
     int rangeSumBST(TreeNode* root, int low, int high) {
