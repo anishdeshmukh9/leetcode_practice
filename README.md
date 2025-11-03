@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -133,9 +135,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0098-validate-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
