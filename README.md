@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0682-baseball-game) |
+| [0933-increasing-order-search-tree](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -146,11 +149,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0098-validate-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
