@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0621-task-scheduler) |
 | [1217-relative-sort-array](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0621-task-scheduler) |
 | [2427-first-letter-to-appear-twice](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/2427-first-letter-to-appear-twice) |
 ## Array
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0682-baseball-game) |
 | [0841-shortest-distance-to-a-character](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0958-sort-array-by-parity-ii](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0958-sort-array-by-parity-ii) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0621-task-scheduler) |
 | [0958-sort-array-by-parity-ii](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0958-sort-array-by-parity-ii) |
 | [1217-relative-sort-array](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1217-relative-sort-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -166,5 +170,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0621-task-scheduler) |
 | [1127-last-stone-weight](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1127-last-stone-weight) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
