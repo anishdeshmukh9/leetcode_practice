@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0682-baseball-game) |
 | [0841-shortest-distance-to-a-character](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0958-sort-array-by-parity-ii](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0958-sort-array-by-parity-ii) |
+| [1127-last-stone-weight](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1127-last-stone-weight) |
 | [1217-relative-sort-array](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
