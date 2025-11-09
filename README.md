@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2058-concatenation-of-array](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/2058-concatenation-of-array) |
 | [2476-check-distances-between-same-letters](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/2476-check-distances-between-same-letters) |
+| [3226-minimum-number-game](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/3226-minimum-number-game) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sliding Window
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0958-sort-array-by-parity-ii) |
 | [1217-relative-sort-array](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1217-relative-sort-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3226-minimum-number-game](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/3226-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/2058-concatenation-of-array) |
+| [3226-minimum-number-game](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/3226-minimum-number-game) |
 ## Math
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0621-task-scheduler) |
 | [1127-last-stone-weight](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1127-last-stone-weight) |
+| [3226-minimum-number-game](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/3226-minimum-number-game) |
 ## Greedy
 |  |
 | ------- |
