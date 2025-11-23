@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2427-first-letter-to-appear-twice](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/2427-first-letter-to-appear-twice) |
 | [2476-check-distances-between-same-letters](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/2476-check-distances-between-same-letters) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0621-task-scheduler) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2427-first-letter-to-appear-twice](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/2427-first-letter-to-appear-twice) |
 ## Array
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/0412-fizz-buzz) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anishdeshmukh9/leetcode_practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Backtracking
 |  |
